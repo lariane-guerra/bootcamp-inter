@@ -1,0 +1,33 @@
+.navbar {
+    background: #efe1d1;
+}
+
+.quem-somos{
+    background: #917f6e;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text-quemsomos{
+    margin-top: 20px;
+}
+div > h3{
+    margin-bottom: 15px ;
+}
+
+.parceiros {
+    background:#d9ddcd;
+}
+.servicos{
+    background: #efbc98;
+}
+.servicos img{
+    border-radius: 8px;
+}
+.bg-footer{
+    background:#efe1d1;
+    padding: 8px;
+}
